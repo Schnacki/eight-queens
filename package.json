@@ -1,0 +1,15 @@
+{
+  "name": "eightqueens",
+  "version": "1.0.0",
+  "description": "Simple JS Solution to the eight queen problem",
+  "scripts": {
+    "start": "node src/main.js",
+    "lint": "npx eslint 'src/**/*.js'",
+    "lint-fix": "npx eslint 'src/**/*.js' --fix"
+  },
+  "author": "Kai Schnackenberg",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-standard": "^17.1.0"
+  }
+}
