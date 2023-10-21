@@ -1,5 +1,5 @@
 {
-  "name": "eightqueens",
+  "name": "eight-queens",
   "version": "1.0.0",
   "description": "Simple JS Solution to the eight queen problem",
   "scripts": {
